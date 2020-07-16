@@ -1,0 +1,41 @@
+.naav{
+    border-radius: 15px;
+   background-color: #1684C7;
+   flex: 9;
+}
+.logo{
+    width: 200px;
+    padding: 0px;
+    margin: 0px;
+}
+.log{
+    background-color: white;
+    margin-top: 0px;
+    flex: 1;
+}
+.intro{
+    text-align: center;
+    height: 80%;
+    background-color: #1684C7;
+    height: 500px;
+    margin: 5px;
+    padding-top: 200px;
+    color: white;
+}
+.buton{
+    color: #1684C7; 
+}
+.skills{
+    text-align: center;
+}
+.blog{
+    text-align: center;
+}
+.contact{
+    display: flex;
+    justify-content: flex-start;
+}
+input[type=text], [type=email], [type=submit], [type=search], textarea{
+    width: 130px;
+    text-align: left;
+}
